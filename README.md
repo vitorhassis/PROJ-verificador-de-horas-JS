@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">-Projeto dinâmico, mudando as imagens e cores de acordo com o horário em que você acessa o site, aprendendo e utilizando conhecimentos iniciais com JavaScript</p>
+<p align="center">-Projeto dinâmico, mudando as imagens e cores de acordo com o horário em que você acessa o site, aprendendo e utilizando conhecimentos iniciais com JavaScript;</p>
 
 ###
 
