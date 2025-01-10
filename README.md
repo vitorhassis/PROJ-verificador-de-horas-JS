@@ -2,10 +2,15 @@
 
 ###
 
-<p align="left">-Um projeto básico, que muda as imagens e cores de acordo com o horário em que você acessa o site, aprendendo e utilizando conhecimentos iniciais em Js</p>
+<p align="center">-Projeto dinâmico, mudando as imagens e cores de acordo com o horário em que você acessa o site, aprendendo e utilizando conhecimentos iniciais com JavaScript</p>
 
 ###
 
-![image](https://github.com/user-attachments/assets/10f65e6d-7ab4-454a-8788-905f9062b25e)
-
-###
+![image](https://github.com/user-attachments/assets/9756f0b8-7686-458b-b471-ddb5fcbd1769)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
