@@ -1,4 +1,4 @@
-# <h2 align="center">⏰ Hora do Dia</h2>
+# <h2 align="center">⏰ Hora do Dia ⏰</h2>
 
 <p align="center">
   🚀 Projeto dinâmico que altera a <strong>imagem de fundo</strong> e as <strong>cores</strong> de acordo com o horário do dia.  
